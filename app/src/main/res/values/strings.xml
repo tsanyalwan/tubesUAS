@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">tubesUAS</string>
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+    <string name="start">Got It</string>
 </resources>

@@ -1,8 +1,10 @@
-package com.example.tubesuas;
+package com.example.tubesuas.activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.example.tubesuas.R;
 
 public class MainActivity extends AppCompatActivity {
 
