@@ -5,6 +5,11 @@
     <color name="colorAccent">#D81B60</color>
     <color name="hitam">#000000</color>
     <color name="white">#FFFFFF</color>
+    <color name="bg_splash_1">#1abc9c</color>
+    <color name="bg_splash_2">#23c9ff</color>
+    <color name="bg_splash_3">#e15554</color>
+    <color name="bg_splash_4">#e1bc29</color>
+    <color name="bg_splash_5">#7768ae</color>
 
     <!-- Screens background color-->
     <color name="bg_screen1">#f64c73</color>
