@@ -3,4 +3,10 @@
     <string name="next">Next</string>
     <string name="skip">Skip</string>
     <string name="start">Got It</string>
+
+    <string name="textsp2">Tentukan Titik Penjemputan Sesuai Kota Mu</string>
+    <string name="textsp3">Dapatkan Pelayanan Terbaik Dari Kami</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
