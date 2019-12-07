@@ -1,8 +1,8 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
-    <item android:id="@+id/action_camera"
+    <item android:id="@+id/action_home"
         android:title="Home"
         android:icon="@drawable/home" />
-    <item android:id="@+id/action_share"
+    <item android:id="@+id/action_profile"
         android:title="Profile"
         android:icon="@drawable/avatar" />
 </menu>

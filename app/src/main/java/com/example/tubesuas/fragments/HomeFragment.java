@@ -1,7 +1,5 @@
 package com.example.tubesuas.fragments;
 
-import android.content.Context;
-import android.net.Uri;
 import android.os.Bundle;
 
 import androidx.fragment.app.Fragment;
@@ -11,8 +9,11 @@ import android.view.View;
 import android.view.ViewGroup;
 
 import com.example.tubesuas.R;
-public class ShareFragment extends Fragment {
-    public ShareFragment() {
+
+public class HomeFragment extends Fragment {
+
+
+    public HomeFragment() {
         // Required empty public constructor
     }
 
@@ -20,10 +21,14 @@ public class ShareFragment extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_share, container, false);
+
+
+        return inflater.inflate(R.layout.fragment_profile, container, false);
     }
 
+
+
     public interface OnFragmentInteractionListener {
-        void onButtonClicked();
+
     }
 }
